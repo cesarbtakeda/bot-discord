@@ -27,6 +27,13 @@ sudo apt-get install -y pkg-config libssl-dev make
 gcc -o bot main.c $(pkg-config --cflags --libs libcurl json-c libwebsockets openssl) -lpthread && ./bot
 ```
 
+# 
+
+Hospedado:
+```
+ https://replit.com/
+```
+
 #
 
 
