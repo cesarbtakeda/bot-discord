@@ -1,6 +1,6 @@
 # bot de recon discord
 
-
+#
 
 1. installation
 ```
@@ -22,6 +22,8 @@ sudo apt-get install -y pkg-config libssl-dev make
 gcc -o bot main.c $(pkg-config --cflags --libs libcurl json-c libwebsockets openssl) -lpthread && ./bot
 ```
 
+#
+
 ## MAIN FEATURES
 ### 📍 Frameworks of recon
 #### - nmap
@@ -35,7 +37,7 @@ gcc -o bot main.c $(pkg-config --cflags --libs libcurl json-c libwebsockets open
 ### - <img width="1612" height="626" alt="image" src="https://github.com/user-attachments/assets/59423443-4be1-4cd1-9017-f3e8f3d3ea3d" />
 
 
-
+#
 
 ## 📜 License(LICENSE)
 [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/cesarbtakeda/bot-discord/blob/main/LICENSE)
