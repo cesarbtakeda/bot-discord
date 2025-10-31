@@ -1,5 +1,10 @@
 # bot de recon discord
 
+link.
+```
+https://discord.com/oauth2/authorize?client_id=1433182284797972561&permissions=0&integration_type=0&scope=bot
+```
+
 #
 
 1. installation
@@ -23,6 +28,8 @@ gcc -o bot main.c $(pkg-config --cflags --libs libcurl json-c libwebsockets open
 ```
 
 #
+
+
 
 ## MAIN FEATURES
 ### 📍 Frameworks of recon
