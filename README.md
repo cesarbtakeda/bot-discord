@@ -1,4 +1,4 @@
-# bot-discord
+# bot de recon discord
 
 ## MAIN FEATURES
 📍 Frameworks of recon
@@ -27,7 +27,11 @@ sudo apt-get install -y pkg-config libssl-dev make
 sudo apt-get install -y whois wget nikto gobuster ffuf
 ```
 
-## Images
+## Images - POC
+- ![Imagem do WhatsApp de 2025-10-30 à(s) 23 05 59_cb877eb0](https://github.com/user-attachments/assets/e9e2d4ee-3570-401f-a1e1-3db000340414)
+- ![Imagem do WhatsApp de 2025-10-30 à(s) 23 05 59_041a0c30](https://github.com/user-attachments/assets/763e9093-1598-4326-8b6a-4f8c385a4c37)
+- <img width="1612" height="626" alt="image" src="https://github.com/user-attachments/assets/59423443-4be1-4cd1-9017-f3e8f3d3ea3d" />
+
 
 
 
