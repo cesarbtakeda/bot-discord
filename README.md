@@ -1,8 +1,13 @@
 # bot-discord
 
-1.
+1. installation
 ```
-git clone https://github.com/cesarbtakda/H00ks_T0x1na.git
+git clone https://github.com/cesarbtakda/bot-discord && cd bot-discord
+```
+
+2.
+```
+sudo apt-get update -y && sudo apt-get install -y gcc libcurl4-openssl-dev libjson-c-dev libwebsockets-dev libpthread-stubs0-dev build-essential
 ```
 
 ## 📜 License(LICENSE)
