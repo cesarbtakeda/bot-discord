@@ -1,4 +1,3 @@
-
 // Compilar: gcc bot_discord_all_files.c -o bot_discord -lcurl -ljson-c -lwebsockets -lpthread
 #include <stdio.h>
 #include <stdlib.h>
