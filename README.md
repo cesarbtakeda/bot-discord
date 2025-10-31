@@ -7,17 +7,17 @@
 git clone https://github.com/cesarbtakda/bot-discord && cd bot-discord
 ```
 
-2.
+2. installation
 ```
 sudo apt-get update -y && sudo apt-get install -y gcc libcurl4-openssl-dev libjson-c-dev libwebsockets-dev libpthread-stubs0-dev build-essential
 ```
 
-3.
+3. installation
 ```
 sudo apt-get install -y pkg-config libssl-dev make
 ```
 
-4.
+4. Compilation and execute
 ```
 gcc -o bot main.c $(pkg-config --cflags --libs libcurl json-c libwebsockets openssl) -lpthread && ./bot
 ```
