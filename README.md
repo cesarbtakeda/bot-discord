@@ -1,11 +1,12 @@
 # bot de recon discord
 
 ## MAIN FEATURES
-📍 Frameworks of recon
-- nmap
-- gobuster
-- nikto
-- curl
+### 📍 Frameworks of recon
+
+1-) nmap
+2-) gobuster
+3-) nikto
+4-) curl
 
 1. installation
 ```
