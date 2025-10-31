@@ -19,7 +19,7 @@ sudo apt-get install -y pkg-config libssl-dev make
 
 4.
 ```
-sudo apt-get install -y whois wget nikto gobuster ffuf
+gcc -o bot main.c $(pkg-config --cflags --libs libcurl json-c libwebsockets openssl) -lpthread && ./bot
 ```
 
 ## MAIN FEATURES
